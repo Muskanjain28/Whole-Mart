@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Whole Mart</string>
+    <string name="whole_mart">
+        <font color="#0EA3B3">LOC</font><font color="#73E8F6">ALM</font><font color="#0EA3B3">ART</font>
+    </string>
+    <string name="subTitle">
+        <font color="#73E8F6">One Stop Shop </font><font color="#0EA3B3">for every Local </font><font color="#73E8F6">Store around you !</font>
+    </string>
+    <string name="owner">
+        <font color="#73E8F6">OWNER</font>
+    </string>
+    <string name="customer">
+        <font color="#73E8F6">CUSTOMER</font>
+    </string>
+    <string name="loginAsOwner">Login As Owner</string>
+    <string name="loginAsCustomer">Login As Customer</string>
+    <string name="registerAsOwner">Register As Owner</string>
+    <string name="registerAsCustomer">Register As Customer</string>
+
+    <!--    Customer Registration Page -->
+    <string name="customer_full_name">Full Name</string>
+    <string name="customer_username">Create Username</string>
+    <string name="customer_email_address">Email Address</string>
+    <string name="customer_mobile_number">Mobile Number</string>
+    <string name="customer_house_no_street_no">House No. / Street No.</string>
+    <string name="customer_locality_area">Locality / Area</string>
+    <string name="customer_city">City</string>
+    <string name="customer_pincode">Pincode</string>
+    <string name="customer_create_password">Create Password</string>
+    <string name="customer_re_enter_password">Re-enter Password</string>
+    <string name="customer_register">Register</string>
+    <string name="customer_back_to_first_page">Back</string>
+
+    <!--    Owner Registration Page -->
+    <string name="owner_full_name">Full Name</string>
+    <string name="owner_username">Create Username</string>
+    <string name="owner_shop_name">Shop Name</string>
+    <string name="owner_mobile_number">Mobile Number</string>
+    <string name="owner_shop_no_street_no">Shop No. / Street No.</string>
+    <string name="owner_locality_area">Locality / Area</string>
+    <string name="owner_city">City</string>
+    <string name="owner_pincode">Pincode</string>
+    <string name="owner_create_password">Create Password</string>
+    <string name="owner_re_enter_password">Re-enter Password</string>
+    <string name="owner_register">Register</string>
+    <string name="owner_back_to_first_page">Back</string>
+
+    <!--    Login Page Details-->
+    <string name="username_login">Enter Username</string>
+    <string name="password_login">Enter Password</string>
+    <string name="loginButton">Login</string>
+    <string name="loginUsingPhone">Login Using OTP</string>
+    <string name="mobile_number_login">Enter Mobile Number</string>
+    <string name="send_otp">Send Otp</string>
+    <string name="enter_otp">Enter OTP</string>
+
+
+</resources>
